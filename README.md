@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Vishesh and I'm a SDE</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcamp2.rectangle.zone%2Findex.php%3Ftitle%3DFile%3ADragon-ball-z-goku.gif&psig=AOvVaw1v0qBcndO6lCbZj4uvjs0V&ust=1761868326850000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKjS6JHNypADFQAAAAAdAAAAABAw"  />
 
 ###
 
