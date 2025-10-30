@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcamp2.rectangle.zone%2Findex.php%3Ftitle%3DFile%3ADragon-ball-z-goku.gif"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRrNDd1Y3VkaTdtcGt1eWdpMWVkanV2bjd4cG1pZDZwMng1NXRqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U2fpTR4zq6LuEDFmS1/giphy.gif"  />
 
 ###
 
