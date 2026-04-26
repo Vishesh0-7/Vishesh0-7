@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishesh</h1>
+<h1 align="center">Hi, I'm Vishesh</h1>
 <h3 align="center">🚀 Software Development Engineer | Passionate about AI, Robotics & Cloud</h3>
 
 <p align="center">
