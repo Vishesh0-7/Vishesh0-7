@@ -303,13 +303,11 @@ Worked on large-scale biomedical imaging research involving machine learning, im
 
 ---
 
-# Contribution Snake
+## Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Vishesh0-7/Vishesh0-7/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+<p align="center">
+  <img alt="github contribution snake" src="https://github.com/Vishesh0-7/Vishesh0-7/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 ---
 
