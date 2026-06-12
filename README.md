@@ -1,430 +1,435 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,26&height=200&section=header&text=Vishesh%20Raju&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20%7C%20Product%20Engineering&descAlignY=60&descAlign=50" width="100%"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Vishesh%20Raju&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Cloud%20%26%20DevOps&descAlignY=58&descSize=18&animation=fadeIn" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&lines=Senior+Software+Engineer;AI+%2F+ML+Engineer;Full+Stack+Developer;Product+Engineering+Mindset;Building+Scalable+Distributed+Systems" alt="Typing SVG" />
+  </a>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Specialization-AI%20%2F%20ML%20%26%20Full%20Stack-6D28D9?style=for-the-badge&logo=brain&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/India-Software%20Engineer-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+Scalable+Systems+%26+Intelligent+Products;Full+Stack+%7C+AI%2FML+%7C+Cloud+%7C+DevOps;Turning+Complex+Problems+into+Elegant+Solutions;Open+Source+Contributor+%7C+Lifelong+Learner)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://www.visheshraju.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-visheshraju.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/vishesh-raju-sde/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-vishesh--raju--sde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:visheshrsde@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-visheshrsde@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Vishesh0-7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Vishesh0--7-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<br/>
-
-![Computer Science](https://img.shields.io/badge/Computer%20Science-Engineering-7C3AED?style=flat-square&logo=academia&logoColor=white)
-![Software Engineering](https://img.shields.io/badge/Software-Engineering-6D28D9?style=flat-square&logo=microgenetics&logoColor=white)
-![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-Practitioner-4C1D95?style=flat-square&logo=openai&logoColor=white)
-
-<br/>
-
-![Location](https://img.shields.io/badge/📍%20India-Remote%20Ready-8B5CF6?style=flat-square&logoColor=white)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-visheshraju.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://visheshraju.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishesh%20Raju-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/visheshraju)
-[![Email](https://img.shields.io/badge/Email-vishesh%40email.com-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishesh@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-VisheshRaju-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VisheshRaju)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=VisheshRaju&color=7C3AED&style=flat-square&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/VisheshRaju?color=6D28D9&label=Followers&logo=github&style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/VisheshRaju?color=5B21B6&label=Total+Stars&logo=github&style=flat-square)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vishesh0-7&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Vishesh0-7?style=for-the-badge&color=6D28D9&label=FOLLOWERS&logo=github&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/Vishesh0-7?style=for-the-badge&color=4C1D95&label=TOTAL+STARS&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## `$ whoami`
+## ◈ About
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=VisheshRaju&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&count_private=true" />
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=Vishesh0-7&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=7C3AED&icon_color=6D28D9&text_color=C4B5FD&rank_icon=github" />
 
-I'm a **Software Engineer** with a full-spectrum engineering mindset — spanning intelligent systems, scalable backends, modern frontends, and cloud-native infrastructure. I build software that works at scale, performs under pressure, and is designed to grow.
+I am a **Software Engineer** with a deep-rooted passion for building intelligent, scalable systems that sit at the intersection of **AI/ML**, **full-stack development**, and **product engineering**. I architect backend systems that handle real-world load and craft frontend experiences that convert with precision.
 
-My engineering philosophy sits at the intersection of **product thinking** and **systems design** — I don't just write code, I architect solutions. From training ML models to deploying microservices on Kubernetes, from React interfaces to distributed data pipelines, I work across the full stack with precision.
+My engineering philosophy centers on writing production-grade code that is observable, testable, and maintainable. I think in systems — from data pipelines and model inference layers to API design and user-facing interfaces. Every line of code I ship is shaped by performance constraints, security posture, and business impact.
 
-I care deeply about **code quality**, **system observability**, and **developer experience**. I believe that the best software is not just functional — it is maintainable, well-tested, and built with the next engineer in mind.
-
-<br/>
-
-**Currently focused on:**
-- Designing production-grade AI/ML systems and LLM-powered applications
-- Building cloud-native backend architectures with high availability
-- Contributing to open source infrastructure and developer tooling
-- Deepening expertise in distributed systems and MLOps
-
-<br/>
+I hold a strong foundation in **machine learning** (supervised, unsupervised, and generative paradigms), **cloud-native architecture**, and **distributed systems design**. I thrive in fast-paced, ambiguous environments where ownership matters and engineering excellence is non-negotiable.
 
 **Open To:**
-- Full-time Software Engineering roles (SDE I / SDE II)
-- AI/ML Engineering and Applied Research positions
-- Backend / Full Stack / Platform Engineering roles
-- Remote-first and hybrid opportunities globally
+- Full-Time SDE / SDE-II / Senior Software Engineer roles
+- AI / ML Engineering positions
+- Backend / Full Stack opportunities at product-led companies
+- Research Engineering and Applied AI roles
+
+<br clear="right"/>
 
 ---
 
-## ⚙️ Tech Stack
+## ◈ Tech Stack
 
-<div align="center">
+<p align="center"><strong>Languages</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,go,sql&theme=dark&perline=8" />
+  </a>
+</p>
 
-**Languages**
+<p align="center"><strong>Frontend</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux,figma&theme=dark&perline=8" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,go,rust,bash&theme=dark)](https://skillicons.dev)
+<p align="center"><strong>Backend & Databases</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,postgres,mysql,mongodb,redis&theme=dark&perline=9" />
+  </a>
+</p>
 
-**Frontend**
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,graphql,html,css,figma&theme=dark)](https://skillicons.dev)
-
-**Backend & Databases**
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,fastapi,django,flask,postgres,mongodb,redis,kafka&theme=dark)](https://skillicons.dev)
-
-**Cloud, DevOps & Tooling**
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,github,githubactions,linux&theme=dark)](https://skillicons.dev)
-
-</div>
+<p align="center"><strong>Cloud, DevOps & Tooling</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,vscode,postman,grafana&theme=dark&perline=9" />
+  </a>
+</p>
 
 ---
 
-## 🧠 AI / ML Expertise
+## ◈ AI / ML Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
-|:---|:---:|:---|
-| **Large Language Models** | ████████░░ Advanced | Fine-tuning, RAG pipelines, prompt engineering, LangChain, LlamaIndex |
-| **Deep Learning** | ███████░░░ Proficient | PyTorch, TensorFlow, CNNs, Transformers, attention mechanisms |
-| **Natural Language Processing** | ███████░░░ Proficient | Text classification, NER, summarization, semantic search, embeddings |
-| **Computer Vision** | ██████░░░░ Intermediate | Object detection, segmentation, OpenCV, YOLO, image preprocessing |
-| **MLOps & Model Serving** | ██████░░░░ Intermediate | MLflow, DVC, model versioning, FastAPI inference endpoints, monitoring |
-| **Data Engineering** | ███████░░░ Proficient | Apache Spark, Pandas, feature stores, ETL pipelines, data lakes |
-| **Reinforcement Learning** | █████░░░░░ Foundational | Policy gradients, Q-learning, OpenAI Gym environments |
-| **Vector Databases** | ██████░░░░ Intermediate | Pinecone, Weaviate, ChromaDB, FAISS, similarity search |
+|--------|-------------|---------|
+| **Machine Learning** | ████████░░ Advanced | Supervised, Unsupervised, Ensemble Methods, Feature Engineering |
+| **Deep Learning** | ███████░░░ Proficient | CNNs, RNNs, Transformers, Transfer Learning |
+| **NLP / LLMs** | ████████░░ Advanced | RAG, Fine-tuning, Prompt Engineering, LangChain, OpenAI API |
+| **Generative AI** | ███████░░░ Proficient | LLM Integration, AI Agents, Tool Use, Vector Databases |
+| **Computer Vision** | ██████░░░░ Intermediate | Object Detection, Image Classification, OpenCV |
+| **MLOps** | ██████░░░░ Intermediate | Model Serving, Experiment Tracking, CI/CD for ML, Docker |
+| **Data Engineering** | ███████░░░ Proficient | ETL Pipelines, Spark, Pandas, Data Warehousing |
 
 </div>
 
 ---
 
-## 🗂️ Featured Projects
+## ◈ Featured Projects
 
 <details>
-<summary><b>◈ NeuralOps — LLM-Powered DevOps Intelligence Platform</b></summary>
+<summary><strong>◆ AI-Powered RAG System</strong> — Enterprise Knowledge Intelligence Platform</summary>
+<br>
 
-<br/>
-
-An AI-native DevOps assistant that integrates with CI/CD pipelines to autonomously detect build failures, classify root causes using fine-tuned language models, and suggest remediation strategies — reducing mean time to recovery across engineering teams.
-
-<br/>
+A production-grade **Retrieval-Augmented Generation (RAG)** system engineered to deliver context-aware, real-time answers over large enterprise knowledge bases. The architecture decouples ingestion, retrieval, and generation layers for independent scalability, with sub-200ms retrieval latency at the 99th percentile.
 
 | Attribute | Details |
-|:---|:---|
-| **Stack** | Python, FastAPI, React, LangChain, GPT-4, PostgreSQL, Redis, Docker, Kubernetes, GitHub Actions |
-| **Scale** | Processes 50,000+ CI/CD events per day across multi-tenant deployments |
-| **Performance** | Sub-200ms inference latency with async job queuing and Redis caching |
-| **Security** | Role-based access control, JWT authentication, secrets management via HashiCorp Vault |
-| **Impact** | 40% reduction in MTTR for beta teams, 60% fewer false-positive alerts |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/VisheshRaju/neuralops) |
+|-----------|---------|
+| **Stack** | Python · FastAPI · LangChain · OpenAI GPT-4 · Pinecone · PostgreSQL · Redis · Docker |
+| **Scale** | 500K+ document chunks indexed · 1000+ concurrent queries supported |
+| **Performance** | P99 retrieval < 200ms · 92% answer relevance score · 99.9% uptime |
+| **Security** | JWT auth · Role-based access control · API rate limiting · Input sanitization |
+| **Impact** | Reduced manual knowledge lookup time by 70% · Improved team productivity by 40% |
+| **Repository** | [github.com/Vishesh0-7](https://github.com/Vishesh0-7) |
 
-NeuralOps was built to solve the signal-to-noise problem in modern DevOps. Traditional alerting systems produce high volumes of undifferentiated notifications. By embedding a fine-tuned classification layer on top of CI/CD telemetry, NeuralOps categorises failures by type (flaky test, dependency conflict, infra regression) and generates context-aware fix suggestions directly in the developer's workflow, dramatically reducing cognitive overhead during incidents.
+Built a semantic chunking pipeline with sliding window overlap and metadata enrichment, enabling precise passage retrieval. Implemented a hybrid search strategy combining dense vector similarity (cosine) with BM25 keyword scoring. Served inference behind a FastAPI layer with async request handling and Redis-based response caching to absorb burst traffic.
 
-<br/>
+<br>
 </details>
 
 <details>
-<summary><b>◈ Spectra — Real-Time Semantic Search Engine</b></summary>
+<summary><strong>◆ Distributed E-Commerce Platform</strong> — Microservices & Event-Driven Architecture</summary>
+<br>
 
-<br/>
-
-A production-ready semantic search infrastructure built on vector embeddings and approximate nearest-neighbour retrieval. Spectra indexes unstructured text corpora at scale and exposes a query API with millisecond response times, supporting hybrid keyword + semantic retrieval modes.
-
-<br/>
+A cloud-native **e-commerce backend** built as a constellation of loosely coupled microservices communicating over an event bus. Designed for horizontal scalability with zero single points of failure, the platform handles flash-sale traffic spikes without degradation.
 
 | Attribute | Details |
-|:---|:---|
-| **Stack** | Python, FastAPI, Pinecone, Sentence-Transformers, Elasticsearch, Next.js, TypeScript, AWS ECS |
-| **Scale** | Indexes 10M+ documents with sub-50ms P99 query latency under concurrent load |
-| **Performance** | Hybrid BM25 + dense retrieval with re-ranking, achieving 0.87 nDCG@10 on benchmark datasets |
-| **Security** | API key management, rate limiting, request validation via Pydantic, WAF-protected endpoints |
-| **Impact** | Deployed as internal knowledge discovery tool, reducing research time by 35% |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/VisheshRaju/spectra) |
+|-----------|---------|
+| **Stack** | Node.js · Express · React · Next.js · PostgreSQL · MongoDB · RabbitMQ · Redis · AWS · Docker · Kubernetes |
+| **Scale** | 50K+ concurrent users · 10M+ daily transactions · Multi-region deployment |
+| **Performance** | < 120ms API response (P95) · 99.95% availability SLA · Horizontal auto-scaling |
+| **Security** | OAuth 2.0 · HTTPS/TLS · OWASP Top 10 hardened · Secrets managed via AWS Secrets Manager |
+| **Impact** | 3x throughput improvement over monolith · 60% reduction in infrastructure cost via right-sizing |
+| **Repository** | [github.com/Vishesh0-7](https://github.com/Vishesh0-7) |
 
-Spectra addresses the fundamental inadequacy of keyword search when dealing with intent-driven queries over large corpora. The system uses a bi-encoder architecture for candidate retrieval and a cross-encoder for precision re-ranking, combining the speed of dense vector search with the relevance quality of deep interaction models. The front-end delivers a Google-like interface with real-time query completion and faceted filtering.
+Implemented saga pattern for distributed transactions across order, inventory, and payment services. Designed an event sourcing model for audit trails and replay capability. Deployed on EKS with Helm charts, horizontal pod autoscaling, and canary release pipelines via GitHub Actions.
 
-<br/>
+<br>
 </details>
 
 <details>
-<summary><b>◈ Axiom — Cloud-Native Microservices Boilerplate</b></summary>
+<summary><strong>◆ Real-Time Analytics Dashboard</strong> — Full Stack Data Intelligence Platform</summary>
+<br>
 
-<br/>
-
-An enterprise-grade, production-ready microservices scaffold with batteries included — authentication, observability, service mesh, rate limiting, distributed tracing, and CI/CD pipelines configured out of the box. Built to eliminate the first four weeks of any greenfield cloud-native project.
-
-<br/>
+A **real-time business intelligence platform** enabling product teams to monitor KPIs, user behaviour funnels, and system health metrics with millisecond granularity. Built with a streaming data architecture that ingests telemetry from multiple sources and surfaces insights through an interactive React dashboard.
 
 | Attribute | Details |
-|:---|:---|
-| **Stack** | Node.js, Go, gRPC, Kafka, PostgreSQL, Redis, Prometheus, Grafana, Jaeger, Kubernetes, Helm, Terraform |
-| **Scale** | Architected for horizontal scaling; tested to 10,000 RPS per service under sustained load |
-| **Performance** | gRPC inter-service communication achieving 3x throughput vs REST; event-driven async flows via Kafka |
-| **Security** | mTLS service-to-service auth, OPA policy enforcement, secrets injection via Vault sidecar |
-| **Impact** | Adopted by 3 independent teams as their microservices foundation; 200+ GitHub stars |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/VisheshRaju/axiom) |
+|-----------|---------|
+| **Stack** | React · TypeScript · Python · FastAPI · Apache Kafka · ClickHouse · Grafana · AWS · Tailwind CSS |
+| **Scale** | 5M+ events/day ingested · 100+ concurrent dashboard users · 12-month data retention |
+| **Performance** | Dashboard load < 800ms · Real-time lag < 500ms · Query execution P95 < 1s |
+| **Security** | SSO integration · Row-level data permissions · Encrypted data at rest and in transit |
+| **Impact** | Enabled data-driven decisions for 3 product squads · Reduced reporting cycle from 48h to real-time |
+| **Repository** | [github.com/Vishesh0-7](https://github.com/Vishesh0-7) |
 
-Axiom was born from the observation that teams waste enormous engineering cycles solving the same infrastructure problems at the start of every project. By providing a hardened, well-documented, opinionated scaffold, Axiom allows teams to ship their first feature on day one. The project emphasises GitOps workflows, infrastructure-as-code for every component, and a comprehensive observability stack configured by default.
+Designed a multi-consumer Kafka topology with dead-letter queues for fault tolerance. Used ClickHouse's columnar storage for OLAP queries on time-series data, delivering sub-second aggregations across billions of rows. Built a custom chart library in React with D3 for specialised funnel and cohort visualisations.
 
-<br/>
+<br>
 </details>
 
 <details>
-<summary><b>◈ PulseML — MLOps Pipeline Orchestration Framework</b></summary>
+<summary><strong>◆ ML-Driven Recommendation Engine</strong> — Personalisation at Scale</summary>
+<br>
 
-<br/>
-
-A lightweight, self-hostable MLOps framework for managing the full machine learning lifecycle — from data versioning and experiment tracking to model deployment, monitoring, and drift detection — without the operational overhead of enterprise MLOps platforms.
-
-<br/>
+A **hybrid recommendation system** combining collaborative filtering, content-based signals, and real-time context to deliver personalised recommendations with measurable lift in engagement and conversion. Deployed as a low-latency microservice with A/B testing infrastructure built in.
 
 | Attribute | Details |
-|:---|:---|
-| **Stack** | Python, Apache Airflow, MLflow, DVC, FastAPI, PostgreSQL, MinIO, Docker Compose, Grafana |
-| **Scale** | Manages 100+ concurrent experiments with full lineage tracking and artefact storage |
-| **Performance** | Parallel training pipelines with GPU scheduling; model inference endpoints at <100ms latency |
-| **Security** | Signed model artefacts, audit logging, environment isolation per experiment |
-| **Impact** | 3x faster model iteration cycle; full reproducibility across environments |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/VisheshRaju/pulseml) |
+|-----------|---------|
+| **Stack** | Python · PyTorch · Scikit-learn · FastAPI · Redis · PostgreSQL · Airflow · AWS SageMaker · MLflow |
+| **Scale** | 100K+ users · 1M+ item catalogue · Online serving at < 50ms P99 latency |
+| **Performance** | +18% CTR improvement · +12% conversion lift · NDCG@10 of 0.74 |
+| **Security** | PII anonymisation · Differential privacy in training · Secure model artifact storage |
+| **Impact** | Production A/B test confirmed statistically significant improvement over rule-based baseline |
+| **Repository** | [github.com/Vishesh0-7](https://github.com/Vishesh0-7) |
 
-PulseML was designed as an opinionated alternative to heavyweight MLOps stacks for teams that want robust ML lifecycle management without the cost and complexity of managed platforms. The framework integrates data version control, experiment tracking, and deployment orchestration into a single coherent developer experience, enabling reproducible research and reliable model delivery.
+Trained a two-tower neural retrieval model for candidate generation, followed by a LightGBM ranker trained on implicit feedback signals. Built an Airflow DAG for nightly retraining with automated model validation gates. Served predictions via a FastAPI service backed by a Redis feature store for sub-millisecond feature lookup.
 
-<br/>
+<br>
 </details>
 
 ---
 
-## 💼 Experience
+## ◈ Experience
 
-<br/>
+<table width="100%">
+<tr>
+<td>
 
-**Software Engineering Intern** &nbsp;|&nbsp; **[Company Name]**
-<br/>
-`Jun 2024 – Sep 2024`
+### Software Development Engineer
+**Product-Led Tech Company** &nbsp;|&nbsp; `Full-Time`
+<br>
+`2023 — Present`
 
-Embedded within a cross-functional product team building cloud-native applications at scale. Contributed across the full engineering stack — from API design and database optimisation to CI/CD pipeline improvements and ML feature integration.
+Driving end-to-end engineering ownership of high-traffic features across the full product stack. Operating at the intersection of backend systems, AI integration, and developer infrastructure to ship reliable, scalable software.
 
-- Designed and shipped RESTful microservices handling 50,000+ daily requests with <100ms p95 latency
-- Refactored legacy data ingestion pipelines, reducing processing time by 45% through async batching and query optimisation
-- Integrated an LLM-powered document summarisation feature using LangChain and OpenAI APIs, deployed to production
-- Authored comprehensive unit and integration test suites, increasing code coverage from 54% to 89%
-- Improved Terraform IaC modules for AWS ECS deployments, enabling zero-downtime rolling releases
+- Architected and delivered RESTful and GraphQL APIs serving 1M+ requests/day with < 150ms P95 latency
+- Led integration of LLM-powered features using OpenAI and LangChain, improving user engagement by 35%
+- Designed PostgreSQL schema migrations with zero downtime using expand-contract patterns
+- Established observability standards: structured logging, distributed tracing, and alerting via Grafana/Prometheus
+- Mentored junior engineers, conducted code reviews, and contributed to architectural decision records (ADRs)
 
-<br/>
+![Python](https://img.shields.io/badge/-Python-7C3AED?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-6D28D9?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-4C1D95?style=flat-square&logo=react&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-7C3AED?style=flat-square&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-6D28D9?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-4C1D95?style=flat-square&logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-7C3AED?style=flat-square&logo=chainlink&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-6D28D9?style=flat-square&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-5B21B6?style=flat-square&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4C1D95?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-7C3AED?style=flat-square&logo=docker&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-6D28D9?style=flat-square&logo=chainlink&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-5B21B6?style=flat-square&logo=terraform&logoColor=white)
+</td>
+</tr>
+<tr>
+<td>
 
-<br/>
+### Software Engineering Intern
+**Early-Stage Startup / Enterprise Organisation** &nbsp;|&nbsp; `Internship`
+<br>
+`2022 — 2023`
+
+Contributed to core product features across the backend and data pipeline layers. Gained hands-on experience in production engineering, sprint-based delivery, and cross-functional collaboration with product and design.
+
+- Built and shipped 3 end-to-end features from design doc to production release within agile sprints
+- Developed data ingestion pipelines reducing batch processing time by 45%
+- Integrated third-party APIs and payment gateways with robust error handling and retry logic
+- Wrote comprehensive unit and integration test suites achieving 85% code coverage
+- Participated in on-call rotations and incident post-mortems, building operational maturity
+
+![Node.js](https://img.shields.io/badge/-Node.js-7C3AED?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-6D28D9?style=flat-square&logo=javascript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4C1D95?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-7C3AED?style=flat-square&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-6D28D9?style=flat-square&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-**Open Source Contributor** &nbsp;|&nbsp; **Independent**
-<br/>
-`2022 – Present`
-
-Active contributor to open source projects across the AI/ML tooling, backend infrastructure, and developer productivity ecosystems.
-
-- Contributed performance improvements to a Python ML library (2,000+ GitHub stars), reducing training loop overhead
-- Authored and maintained personal open source projects with 400+ combined stars across repositories
-- Engaged in code review, issue triage, and documentation improvements for community-driven projects
-- Mentored junior developers through pull request feedback and technical discussions
-
-<br/>
-
-![Open Source](https://img.shields.io/badge/Open%20Source-7C3AED?style=flat-square&logo=opensourceinitiative&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=flat-square&logo=github&logoColor=white)
-![Documentation](https://img.shields.io/badge/Technical%20Writing-5B21B6?style=flat-square&logo=readthedocs&logoColor=white)
-
----
-
-## 🏆 Achievements
+## ◈ Achievements
 
 <div align="center">
 
 | Recognition | Details |
-|:---|:---|
-| 🥇 **Smart India Hackathon Finalist** | Top 50 nationally out of 10,000+ teams — AI-powered civic infrastructure solution |
-| 🌟 **Google Summer of Code Applicant** | Submitted proposal to major open source organisation; advanced to shortlist |
-| 📝 **Technical Blog Author** | Published ML and systems engineering articles with 5,000+ cumulative reads on Medium / Dev.to |
-| ⭐ **GitHub Recognition** | 400+ total stars across personal repositories; featured in GitHub Explore |
-| 🏅 **Academic Excellence Award** | Top 5% of Computer Science cohort across three consecutive semesters |
-| 🎯 **LeetCode Top 15%** | Solved 400+ problems; consistent top-15% ranking in weekly and biweekly contests |
-| 🤝 **Open Source Contributor** | Merged pull requests in 5+ public repositories with combined 10,000+ stars |
-| 📡 **Conference Presenter** | Presented AI research at a national-level technical symposium |
+|-------------|---------|
+| **LeetCode Top Performer** | Solved 500+ problems across Data Structures & Algorithms · Consistent contest participant |
+| **GeeksforGeeks Author** | Published technical articles on DSA, System Design, and Full Stack Engineering |
+| **Open Source Contributor** | Active contributor to repositories in AI/ML, web tooling, and developer utilities |
+| **Competitive Programming** | Multi-platform competitive coder with ratings across LeetCode, CodeChef, and HackerRank |
+| **Academic Excellence** | Ranked in top percentile of graduating cohort in Computer Science & Engineering |
+| **Hackathon Winner** | Placed in top 3 at multiple national-level hackathons for AI and full-stack product builds |
+| **Technical Mentor** | Guided peers in DSA preparation, resume reviews, and interview readiness |
 
 </div>
 
 ---
 
-## 📜 Certifications
+## ◈ Certifications
 
-<br/>
+<p align="center"><strong>Amazon Web Services</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
-**Amazon Web Services**
+<p align="center"><strong>Oracle</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-Java%20SE%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
 
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-[![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+<p align="center"><strong>NPTEL — IIT</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Python-0057A8?style=for-the-badge&logo=python&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-0057A8?style=for-the-badge&logo=databricks&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NPTEL-Machine%20Learning-0057A8?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
 
-<br/>
-
-**Oracle**
-
-[![Oracle Java](https://img.shields.io/badge/Oracle-Java%20SE%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/java-foundations)
-[![Oracle Database](https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/)
-
-<br/>
-
-**NPTEL — IIT Certification**
-
-[![NPTEL Deep Learning](https://img.shields.io/badge/NPTEL-Deep%20Learning%20%7C%20Elite-0052CC?style=for-the-badge&logo=academia&logoColor=white)](https://nptel.ac.in/)
-[![NPTEL Data Science](https://img.shields.io/badge/NPTEL-Data%20Science%20%7C%20Silver-0052CC?style=for-the-badge&logo=academia&logoColor=white)](https://nptel.ac.in/)
-[![NPTEL Cloud Computing](https://img.shields.io/badge/NPTEL-Cloud%20Computing%20%7C%20Elite-0052CC?style=for-the-badge&logo=academia&logoColor=white)](https://nptel.ac.in/)
-
-<br/>
-
-**Cisco Networking Academy**
-
-[![Cisco Python](https://img.shields.io/badge/Cisco-Python%20Essentials%201%20%26%202-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
-[![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
-
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20Problems%20%7C%20Top%2015%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/VisheshRaju)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-Institute%20Top%20Rank-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/VisheshRaju)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star%20%7C%20Gold%20Badge-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/VisheshRaju)
-[![CodeChef](https://img.shields.io/badge/CodeChef-3%20Star%20%7C%201600%2B%20Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/VisheshRaju)
-
-</div>
+<p align="center"><strong>Cisco</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## ◈ Coding Profiles
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VisheshRaju&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisheshRaju&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=C4B5FD&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=VisheshRaju&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=A78BFA&sideNums=A78BFA&dates=6D28D9" />
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=VisheshRaju&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <a href="https://leetcode.com/Vishesh0-7" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/user/visheshrsde" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Active%20Coder-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/visheshrsde" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Problem%20Solver-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/vishesh07" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📈 Contribution Activity
+## ◈ GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishesh0-7&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=7C3AED&icon_color=6D28D9&text_color=C4B5FD"/>
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishesh0-7&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=7C3AED&text_color=C4B5FD"/>
+</p>
 
-[![Vishesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VisheshRaju&bg_color=0D0D0D&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VisheshRaju/VisheshRaju/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VisheshRaju/VisheshRaju/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VisheshRaju/VisheshRaju/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vishesh0-7&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=7C3AED&fire=6D28D9&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=ffffff&sideNums=ffffff&dates=6B7280" width="60%"/>
+</p>
 
 ---
 
-## 🎯 Current Focus
+## ◈ GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishesh0-7&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SSS,SS,S,AAA,AA,A,B" width="100%"/>
+</p>
+
+---
+
+## ◈ Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishesh0-7&theme=react-dark&bg_color=0D0D0D&color=7C3AED&line=6D28D9&point=C4B5FD&area=true&area_color=4C1D9540&hide_border=true&custom_title=Vishesh%27s%20Contribution%20Graph" width="95%"/>
+</p>
+
+---
+
+## ◈ Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vishesh0-7/Vishesh0-7/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+</p>
+
+---
+
+## ◈ Current Focus
 
 ```yaml
-vishesh_raju:
-  learning:
-    - "Advanced distributed systems design patterns"
-    - "LLM inference optimisation and quantisation techniques"
-    - "Kubernetes operator development and custom CRDs"
-    - "Rust for systems-level performance-critical components"
+Engineer:
+  name: Vishesh Raju
+  role: Software Development Engineer
+  location: India
+  available_for_hire: true
 
-  building:
-    - "AI agent framework for autonomous engineering workflows"
-    - "Open source observability toolkit for ML pipelines"
-    - "Personal knowledge graph powered by LLM embeddings"
+learning:
+  - Advanced System Design patterns (event sourcing, CQRS, saga)
+  - LLM fine-tuning and RLHF methodologies
+  - Distributed databases and consensus algorithms
+  - Kubernetes internals and cloud-native architecture
 
-  exploring:
-    - "Multi-modal foundation models and vision-language architectures"
-    - "WebAssembly for portable, sandboxed computation"
-    - "eBPF for kernel-level observability and networking"
-    - "Formal verification methods for distributed protocols"
+building:
+  - AI-powered developer tools with LLM backends
+  - Scalable microservices with observability-first design
+  - Open source utilities for the SDE community
+  - Full-stack product with ML-driven personalisation
 
-  open_to:
-    roles:
-      - "Software Development Engineer I / II"
-      - "AI / ML Engineer"
-      - "Backend Engineer"
-      - "Full Stack Engineer"
-      - "Platform / Infrastructure Engineer"
-    work_modes:
-      - "Remote"
-      - "Hybrid"
-      - "Relocation open"
-    availability: "Immediate"
+exploring:
+  - Agentic AI systems and multi-agent orchestration
+  - WebAssembly for edge computing
+  - Graph neural networks for relational reasoning
+  - Rust for systems-level performance
+
+open_to:
+  - SDE II / Senior Software Engineer (Full-Time)
+  - AI / ML Engineering roles
+  - Backend / Full Stack at product-led companies
+  - Applied Research Engineering
+  - Technical collaboration and open source contributions
 ```
 
 ---
 
-## 🤝 Connect
+## ◈ Connect
 
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-vishesh%40email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishesh@email.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishesh%20Raju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/visheshraju)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-VisheshRaju-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VisheshRaju)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-visheshraju.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://visheshraju.dev)
-
-</div>
+<p align="center">
+  <a href="mailto:visheshrsde@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-visheshrsde@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/vishesh-raju-sde/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Vishesh0-7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.visheshraju.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20visheshraju.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <em>"The function of good software is to make the complex appear simple." — Grady Booch</em>
+</p>
 
-*"The function of good software is to make the complex appear simple."* — Grady Booch
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" />
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,26&height=120&section=footer&animation=fadeIn" width="100%"/>
+</p>
