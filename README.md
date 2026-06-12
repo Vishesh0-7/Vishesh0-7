@@ -265,22 +265,6 @@ Worked on large-scale biomedical imaging research involving machine learning, im
 
 ---
 
-# Coding Profiles
-
-<div align="center">
-
-![](https://img.shields.io/badge/LeetCode-Problem_Solving-7C3AED?style=for-the-badge\&logo=leetcode)
-
-![](https://img.shields.io/badge/HackerRank-Coding_Challenges-6366F1?style=for-the-badge\&logo=hackerrank)
-
-![](https://img.shields.io/badge/GeeksforGeeks-DSA-8B5CF6?style=for-the-badge\&logo=geeksforgeeks)
-
-![](https://img.shields.io/badge/CodeChef-Competitive_Programming-4F46E5?style=for-the-badge)
-
-</div>
-
----
-
 # GitHub Analytics
 
 <div align="center">
