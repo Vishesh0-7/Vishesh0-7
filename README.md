@@ -265,34 +265,6 @@ Worked on large-scale biomedical imaging research involving machine learning, im
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishesh0-7&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishesh0-7&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Vishesh0-7&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vishesh0-7&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
